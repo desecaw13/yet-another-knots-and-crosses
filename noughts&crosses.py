@@ -1,6 +1,3 @@
-# Joe Olpin
-# tic-tac-toe
-# 8/18/2021
 
 def main():
     turn = 0
